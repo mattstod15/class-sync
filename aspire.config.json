@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "ClassSync.AppHost/ClassSync.AppHost.csproj"
+  }
+}
